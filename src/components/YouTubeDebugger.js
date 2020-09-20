@@ -59,7 +59,7 @@ class YouTubeDebugger extends React.Component {
         </button>
         <button className="resolution" 
         onClick={this.handleChangeResolution}>
-          Change resolution
+         resolution
         </button>
       </div>
     );
